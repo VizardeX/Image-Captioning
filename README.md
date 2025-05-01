@@ -24,7 +24,7 @@ The dataset used for this project (`Assignment 2 files.zip`) is hosted on google
 
 ---
 
-## 📁 Dataset Structure
+## Dataset Structure
 ```
 Assignment 2 files/
 ├── train/         # Training images
